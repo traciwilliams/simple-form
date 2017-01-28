@@ -1,4 +1,4 @@
-# A simple form HTML form
+# A simple HTML form
 
 ##Installing
 
